@@ -1,0 +1,11 @@
+///////////////////////////////////////////////////////////////////////////////
+// throwexception.h
+//
+// B-Tree-block-fixed-C version 1.20 Copyright (c) 1995-2015 David R. Van Wagner
+// See LICENSE.txt for licensing details
+//
+// btree@davevw.com
+// http://www.davevw.com
+///////////////////////////////////////////////////////////////////////////////
+
+extern void throw_exception(const char* message);
